@@ -1,4 +1,4 @@
-# Favourite Movies
+# Favourite Movies Project
 A simple HTML practice project that showcases the posters of favourite movies with their names and rating.
 
 ![ss1](https://github.com/user-attachments/assets/520dd76f-1d4e-45c2-8be7-0486f7d10af1)
